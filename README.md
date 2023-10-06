@@ -1,1 +1,1 @@
-# coding-problems
+This is a repository of common interview coding problems in Python. The code is formatted using black, a popular code formatter for Python. The repository also uses GitHub Actions to automatically run black on every commit and pull request, ensuring consistent code style and quality. To use this repository, you can clone it, install the requirements, and run the tests. You can also browse the problems and solutions online, or contribute your own solutions or suggestions.
